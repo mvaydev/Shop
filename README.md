@@ -1,2 +1,3 @@
 # Shop
- Simple RESTful API written in Go
+
+A simple RESTful API written in Go
